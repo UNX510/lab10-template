@@ -13,7 +13,7 @@ echo "UNX510 Summer 2024 - Lab 10, Activity 2"
 echo "---------------------------------------"
 
 # Task 1: Array pre-poluation and display.
-# Create a script which:
+# Create script code which will:
 # 1. Initializes an array called: spring
 # 2. This array must be pre-poluated with the following data (Each word is one element. Do not include spaces in the array values.)
 # 2a. Array data: I spring like spring on spring in spring
@@ -26,7 +26,7 @@ echo "| Task 1 |"
 # Begin code:
 
 # Task 2: Array manipulation
-# Create a script which:
+# Create script code which will:
 # 1. Will ask the user to choose a single word that will replace all instances of 'spring' in the array that was just displayed.
 # 1a. A single word is all that's expected and you can write your code with that assumption. However, if you'd like to write error checking to ensure that's the case,
 # you'll get bonus marks. (If it works!)
