@@ -32,7 +32,7 @@ This will download Lab 10 locally, allowing you to work on your scripts and uplo
 
 6. Clone your lab 10 repository into your ~/unx510/lab10/ directory using SSH:
 ```bash
-git clone git@github.com:unx510/lab10-yourgithubusername.git ~/unx510/lab10/
+git clone git@github.com:unx510/lab-10-arrays-and-associative-arrays-yourgithubusername.git ~/unx510/lab10/
 ```
 
 # Submission
